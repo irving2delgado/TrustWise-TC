@@ -81,7 +81,7 @@ a,
 .blog-detail-section .lower-box .comments-area .comment-info .comment-time,
 .submit-property-section .submit-property-header-section .dashboard-nav li.active a,
 .submit-property-section .submit-property-header-section .dashboard-nav li a:hover{
-	color:#ff7e00;
+	color:#0056B3;
 }
 
 /* Background Color */
@@ -164,7 +164,7 @@ a,
 .news-block-two .inner-box .lower-content .upper-box .separator:before,
 .news-block-two .inner-box .lower-content .date-box,
 .comments-tab .tab-buttons .tab-btn.active-btn{
-	background-color:#ff7e00;
+	background-color:#0056B3;
 }
 
 .team-block .image .overlay-box:before{

@@ -661,7 +661,7 @@ img{
 }
 
 .theme_color{
-	color:#bd6f29;
+	color:#0056B3;
 }
 
 .preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(../images/icons/preloader.gif); background-size:70px; }
@@ -747,7 +747,7 @@ img{
 	position:relative;
 	z-index:99;
 	width:100%;
-	background-color:#bd6f29;
+	background-color:#0056B3 !important;
 }
 
 .main-header .main-box{
@@ -779,6 +779,8 @@ img{
 
 .main-header .main-box .logo-box .logo img{
 	display:inline-block;
+	max-height:10%;
+
 	max-width:100%;
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
@@ -2089,6 +2091,7 @@ img{
 
 .sidebar-info-contents{
 	position:relative;
+	background-color:#0056B3 !important;
 }
 
 .sidebar-info-contents .content-inner{
@@ -2215,7 +2218,7 @@ img{
 	position:relative;
 	overflow:hidden;
 	padding-left:80px;
-	background-color:#bd6f29;
+	background-color:#0056B3 !important;
 }
 
 .banner-section .slide{
@@ -2325,6 +2328,7 @@ img{
 
 .banner-section .content-box .theme-btn{
 	margin-right:15px;
+	background-color: #218838;
 }
 
 .banner-section .owl-dots{
