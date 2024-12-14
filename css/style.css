@@ -747,7 +747,7 @@ img{
 	position:relative;
 	z-index:99;
 	width:100%;
-	background-color:#0056B3 !important;
+	background-color:#212d3f !important;
 }
 
 .main-header .main-box{
@@ -780,8 +780,8 @@ img{
 .main-header .main-box .logo-box .logo img{
 	display:inline-block;
 	max-height:10%;
-	width: 230px !important;
-    height: 90px !important;
+	width: 230px;
+    height: 90px;
 	max-width:100%;
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
@@ -2219,7 +2219,7 @@ img{
 	position:relative;
 	overflow:hidden;
 	padding-left:80px;
-	background-color:#0056B3 !important;
+	background-color:#212d3f !important;
 }
 
 .banner-section .slide{
